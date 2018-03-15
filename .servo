@@ -4,6 +4,7 @@
     "default": {
       "owner": "bhupendra.atre@dowjones.com",
       "product": "servo",
+      "bu": "djcs",
       "component": "othr",
       "environment": "dev"
     }
