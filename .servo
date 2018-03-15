@@ -3,8 +3,8 @@
   "tags": {
     "default": {
       "owner": "bhupendra.atre@dowjones.com",
-      "product": "windows21",
       "bu": "djcs",
+      "product": "servo",
       "component": "othr",
       "environment": "dev"
     }
