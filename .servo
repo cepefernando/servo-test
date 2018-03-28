@@ -3,8 +3,8 @@
   "tags": {
     "default": {
       "owner": "bhupendra.atre@dowjones.com",
-      "bu": "000000",
-      "product": "servo",
+      "bu": "djcs",
+      "product": "servo"
       "component": "othr",
       "environment": "dev"
     }
