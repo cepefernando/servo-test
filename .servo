@@ -3,9 +3,10 @@
   "tags": {
     "default": {
       "owner": "bhupendra.atre@dowjones.com",
-      "bu": "djcs",
+      "bu": "000000",
       "product": "servo",
-      "component": "othr"
+      "component": "othr",
+      "environment": "dev"
     }
   }  
 }
