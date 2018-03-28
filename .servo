@@ -2,9 +2,9 @@
   "platform": "nodejs",
   "tags": {
     "default": {
-      "owner": "bhupendra.atre@dowjones.com",
+      "owner": "test@dowjones.com",
       "bu": "djcs",
-      "product": "servo"
+      "product": "servo",
       "component": "othr",
       "environment": "dev"
     }
